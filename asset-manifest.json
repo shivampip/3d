@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/3d/static/css/main.ef509332.chunk.css",
+    "main.js": "/3d/static/js/main.14ef71b9.chunk.js",
+    "main.js.map": "/3d/static/js/main.14ef71b9.chunk.js.map",
+    "runtime-main.js": "/3d/static/js/runtime-main.6cb2e245.js",
+    "runtime-main.js.map": "/3d/static/js/runtime-main.6cb2e245.js.map",
+    "static/js/2.8fc0e0c0.chunk.js": "/3d/static/js/2.8fc0e0c0.chunk.js",
+    "static/js/2.8fc0e0c0.chunk.js.map": "/3d/static/js/2.8fc0e0c0.chunk.js.map",
+    "index.html": "/3d/index.html",
+    "precache-manifest.89f471ee8f63954dc41eef94c82448fd.js": "/3d/precache-manifest.89f471ee8f63954dc41eef94c82448fd.js",
+    "service-worker.js": "/3d/service-worker.js",
+    "static/css/main.ef509332.chunk.css.map": "/3d/static/css/main.ef509332.chunk.css.map",
+    "static/js/2.8fc0e0c0.chunk.js.LICENSE.txt": "/3d/static/js/2.8fc0e0c0.chunk.js.LICENSE.txt",
+    "static/media/crate.gif": "/3d/static/media/crate.da499b85.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cb2e245.js",
+    "static/js/2.8fc0e0c0.chunk.js",
+    "static/css/main.ef509332.chunk.css",
+    "static/js/main.14ef71b9.chunk.js"
+  ]
+}
